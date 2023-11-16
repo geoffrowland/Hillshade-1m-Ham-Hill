@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>hamhill_rend.tif</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-2.78478345970000" miny="50.93180912268607" maxx="-2.71288006095727" maxy="50.97722047816231"/>
+      <Origin x="-2.78478345970000" y="50.93180912268607"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="17" units-per-pixel="1.19432856674194" order="17"/>
+        <TileSet href="18" units-per-pixel="0.59716428337097" order="18"/>
+      </TileSets>
+    </TileMap>
+    
